@@ -1,0 +1,14 @@
+---
+:id: 104877847
+:submitters:
+- :name: Catherine Zhao
+  :email: catherinezhao@berkeley.edu
+- :name: Kevin Liao
+  :email: kevinliao@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-12-14 02:34:48.907723000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-12-13 18:34:48.907723000 Z
+:status: processed
+:score: 23.0
